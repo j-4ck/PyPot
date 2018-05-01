@@ -59,9 +59,10 @@ def create_jobs():
 	q.join()
 
 def main():
-	if len(sys.argv) > 11:
-		print 'Please dont set anymore ports than 10!'
-		sys.exit()
+	# Pot limit issue fixed!
+	#if len(sys.argv) > 11:
+	#	print 'Please dont set anymore ports than 10!'
+	#	sys.exit()
 	elif len(sys.argv) < 2:
 		print 'Supply a port for the program to listen on!'
 		sys.exit()
