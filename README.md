@@ -5,7 +5,5 @@ Run the setup only if you're missing either the colorama module or the pygeoip m
 
 Usage for the program:
     python pypot.py 21 22 23
-                       |
-                       |
-                      /
-        The ports that you want to set as honey pots
+    
+(Where 21, 22 and 23 are the ports that you want to put honey pots on)
