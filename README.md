@@ -1,5 +1,5 @@
 # PyPot
-Simple honey pot program written in python, inspired by R3tr-0
+Simple honey pot program written in python, inspired by retro
 
 Run the setup only if you're missing either the colorama module or the pygeoip module.
 
