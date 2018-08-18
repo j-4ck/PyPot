@@ -1,3 +1,4 @@
+# long live delete humanity
 import socket
 import sys
 import threading
